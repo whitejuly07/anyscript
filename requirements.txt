@@ -1,0 +1,13 @@
+click==7.1.2
+Flask==1.1.2
+icmplibv2==1.0.5
+ipaddress==1.0.23
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+ply==3.11
+pyasn1==0.4.8
+pycryptodomex==3.9.8
+pysmi==0.3.4
+pysnmp==4.4.12
+Werkzeug==1.0.1
